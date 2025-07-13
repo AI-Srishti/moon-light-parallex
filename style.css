@@ -5,7 +5,7 @@
 
 body {
     background: #0a2a43;
-    min-height: 1500px;
+    min-height: 1050px;
 
 }
 
@@ -61,4 +61,20 @@ section img {
 
 #road {
     z-index: 2;
+}
+
+.content {
+    padding: 50px;
+}
+
+.content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #f0f0f0;
+}
+
+.content p {
+    max-width: 800px;
+    line-height: 1.6;
+    color: #ccc;
 }
