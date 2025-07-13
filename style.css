@@ -61,3 +61,20 @@ section img {
 #road{
     z-index: 2;
 }
+.content {
+    padding: 50px;
+    background: #222;
+    min-height: 100vh;
+}
+
+.content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #f0f0f0;
+}
+
+.content p {
+    max-width: 800px;
+    line-height: 1.6;
+    color: #ccc;
+}
